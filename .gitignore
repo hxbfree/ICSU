@@ -13,6 +13,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+ICanSeeYou/INCUclient/bin/Debug
+ICanSeeYou/INCUserver/bin/Debug
+ICanSeeYou/INCUclient/bin/Release
+ICanSeeYou/INCUserver/bin/Release
 
 # Windows shortcuts
 *.lnk
