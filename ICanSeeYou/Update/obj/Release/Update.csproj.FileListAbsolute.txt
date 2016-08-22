@@ -1,0 +1,8 @@
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\bin\Release\Update.exe
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\bin\Release\Update.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\bin\Release\ICanSeeYou.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\bin\Release\Server.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\bin\Release\ICanSeeYou.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\bin\Release\Server.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\obj\Release\Update.exe
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Update\obj\Release\Update.pdb

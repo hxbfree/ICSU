@@ -1,0 +1,9 @@
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\bin\Release\OptionFileCreator.exe
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\bin\Release\OptionFileCreator.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\bin\Release\ICanSeeYou.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\bin\Release\ICanSeeYou.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\obj\Release\OptionFileCreator.frm_Main.resources
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\obj\Release\OptionFileCreator.Properties.Resources.resources
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\obj\Release\OptionFileCreator.csproj.GenerateResource.Cache
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\obj\Release\OptionFileCreator.exe
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\OptionFileCreator\obj\Release\OptionFileCreator.pdb

@@ -1,0 +1,7 @@
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ShowMessage\bin\Release\ShowMessage.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ShowMessage\bin\Release\ShowMessage.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ShowMessage\obj\Release\ShowMessage.Properties.Resources.resources
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ShowMessage\obj\Release\ShowMessage.ShowMessageForm.resources
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ShowMessage\obj\Release\ShowMessage.csproj.GenerateResource.Cache
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ShowMessage\obj\Release\ShowMessage.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ShowMessage\obj\Release\ShowMessage.pdb

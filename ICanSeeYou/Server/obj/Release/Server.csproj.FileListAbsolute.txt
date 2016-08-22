@@ -1,0 +1,7 @@
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Server\bin\Release\Server.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Server\bin\Release\Server.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Server\bin\Release\ICanSeeYou.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Server\bin\Release\ICanSeeYou.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Server\obj\Release\Server.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Server\obj\Release\Server.pdb

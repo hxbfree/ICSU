@@ -1,0 +1,4 @@
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ICanSeeYou\Common\bin\Release\ICanSeeYou.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ICanSeeYou\Common\bin\Release\ICanSeeYou.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ICanSeeYou\Common\obj\Release\ICanSeeYou.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\ICanSeeYou\Common\obj\Release\ICanSeeYou.pdb

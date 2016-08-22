@@ -1,0 +1,6 @@
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Client\bin\Release\Client.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Client\bin\Release\Client.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Client\bin\Release\ICanSeeYou.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Client\bin\Release\ICanSeeYou.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Client\obj\Release\Client.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Client\obj\Release\Client.pdb

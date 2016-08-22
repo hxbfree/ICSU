@@ -1,0 +1,9 @@
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\bin\Release\Clients.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\bin\Release\Clients.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\bin\Release\Client.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\bin\Release\ICanSeeYou.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\bin\Release\Client.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\bin\Release\ICanSeeYou.pdb
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\obj\Release\Clients.csprojResolveAssemblyReference.cache
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\obj\Release\Clients.dll
+E:\00_ETao\05_Project\scc\ICanSeeYou_src\Clients\obj\Release\Clients.pdb
