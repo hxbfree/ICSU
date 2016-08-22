@@ -15,7 +15,7 @@ namespace INCUclient
             //  初始化 AboutBox 以显示程序集信息中包含的产品信息。
             //  也可以通过以下方法更改应用程序的程序集信息设置:
             //  - 项目->属性->应用程序->程序集信息
-            //  - AssemblyInfo.cs
+            ////  - AssemblyInfo.cs
             this.Text = String.Format("关于 {0}", AssemblyTitle);
             this.labelProductName.Text += AssemblyProduct;
             this.labelVersion.Text = String.Format("版本 {0}", AssemblyVersion);
